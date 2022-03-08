@@ -1,4 +1,4 @@
-# vip
+# VUETIFY AUTHENTICATION
 
 ## Project setup
 ```
